@@ -225,6 +225,70 @@ li{
     width: .3rem;
     height: .3rem;
 }
+
+/*slide 3 */
+.cmp_cimg{
+    width: 1%;
+    height: 60%;
+    position: absolute;
+    top:29%;
+    left: 49%;
+}
+.swiper_slide3_box1{
+    position: absolute;
+    top: 40%;
+    left: 54%;
+}
+.swiper_slide3_box1 p{
+
+    color: #fff;
+    font-size: .26rem;
+}
+.swiper_slide3_box1 img{
+    display: inline-block;
+    height: .25rem;
+    width: .25rem;
+}
+/*slide 4*/
+.swiper_slide4_box1 {
+    width: 4rem;
+    height: 5rem;
+    position: absolute;
+    padding-left: .3rem;
+    top: 33%;
+    left: 20%;
+    background: url(../images/l.png) no-repeat;
+    background-size: 100% 100%;
+}
+.swiper_slide4_box1 img{
+    width: 20px;
+}
+.swiper-slide4 .swiper_slide4_p1{
+    position: absolute;
+    top: 79%;
+    left: 21%;
+}
+.swiper_slide_span1{
+    position: absolute;
+    bottom:2px;
+}
+/*5*/
+.swiper-slide5_box1{
+    position: absolute;
+    top:32%;
+    text-align: center;
+}
+.swiper-slide5_box1 a{
+    display: inline-block;
+    width: 26%;
+    height:3rem;
+    margin-left: .1rem;
+    margin-right: .1rem;
+    margin-bottom: .1rem;
+}
+.swiper-slide5_box1 a img{
+    height:100%;
+}
 /*next*/
 .swiper-button-next{
     left:50%;
