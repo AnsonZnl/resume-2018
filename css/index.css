@@ -249,6 +249,34 @@ li{
     height: .25rem;
     width: .25rem;
 }
+.swiper_slide3_box2{
+    position: absolute;
+    top: 70%;
+    left: 54%;
+}
+.swiper_slide3_box2 p{
+    color: #fff;
+    font-size: .26rem;
+}
+.swiper_slide3_box2 img{
+    display: inline-block;
+    height: .25rem;
+    width: .25rem;
+}
+.swiper_slide3_box3{
+    position: absolute;
+    top: 56%;
+    left: 19%;
+}
+.swiper_slide3_box3 p{
+    color: #fff;
+    font-size: .26rem;
+}
+.swiper_slide3_box3 img{
+    display: inline-block;
+    height: .25rem;
+    width: .25rem;
+}
 /*slide 4*/
 .swiper_slide4_box1 {
     width: 4rem;
@@ -260,17 +288,100 @@ li{
     background: url(../images/l.png) no-repeat;
     background-size: 100% 100%;
 }
-.swiper_slide4_box1 img{
-    width: 20px;
-}
 .swiper-slide4 .swiper_slide4_p1{
     position: absolute;
     top: 79%;
-    left: 21%;
+    left: 25%;
+    color: #fff;
+    font-size: 17px;
+}
+.swiper-slide4 .swiper_slide4_p2{
+    position: absolute;
+    top: 79%;
+    left: 37%;
+    color: #fff;
+    font-size: 17px;
+}
+.swiper-slide4 .swiper_slide4_p3{
+    position: absolute;
+    top: 79%;
+    left: 50%;
+    color: #fff;
+    font-size: 17px;
+}
+.swiper-slide4 .swiper_slide4_p4{
+    position: absolute;
+    top: 79%;
+    left: 60%;
+    color: #fff;
+    font-size: 17px;
+}
+.swiper-slide4 .swiper_slide4_p5{
+    position: absolute;
+    top: 79%;
+    left: 70%;
+    color: #fff;
+    font-size: 17px;
 }
 .swiper_slide_span1{
     position: absolute;
     bottom:2px;
+    left:9%;
+}
+.swiper-slide4 .swiper_slide_span1 img{
+    width: 20px;
+    height: 230px;
+}
+.swiper_slide_span2{
+    position: absolute;
+    bottom:2px;
+    left: 26%;
+}
+.swiper-slide4 .swiper_slide_span2 img{
+    width: 20px;
+    height: 200px;
+}
+
+.swiper_slide_span3{
+    position: absolute;
+    bottom:2px;
+    left: 42%;
+}
+.swiper-slide4 .swiper_slide_span3 img{
+    width: 20px;
+    height: 180px;
+}
+.swiper_slide_span4{
+    position: absolute;
+    bottom:2px;
+    left: 58%;
+}
+.swiper-slide4 .swiper_slide_span4 img{
+    width: 20px;
+    height: 200px;
+}
+.swiper_slide_span5{
+    position: absolute;
+    bottom:2px;
+    left: 74%;
+}
+.swiper-slide4 .swiper_slide_span5 img{
+    width: 20px;
+    height: 100px;
+}
+.span50{
+    position: absolute;
+    top:58%;
+    left: -19%;
+    color: #fff;
+    font-size: 16px;
+}
+.span100{
+    position: absolute;
+    top:21%;
+    left: -20%;
+    color: #fff;
+    font-size: 16px;
 }
 /*5*/
 .swiper-slide5_box1{
@@ -362,7 +473,6 @@ li{
     border-radius: 100%;
     /*background-color: #fff;*/
     opacity:.8;
-    border:solid 1px #fff;
 }
 .swiper-button-next{
     background-image: url(https://coding.net/u/AnsonZnl/p/swiper-dome01/git/raw/master/img/bottom.png);
